@@ -20,9 +20,9 @@ Kode proyek ini ditulis menggunakan bahasa pemrograman HTML, CSS, dan JavaScript
 
 ## Software Pendukung
 
-Proyek ini dikembangkan menggunakan [Visual Studio Code](https://code.visualstudio.com/download). Pastikan Anda memiliki Visual Studio Code terpasang sebelum menjalankan proyek.
+Proyek ini dikembangkan menggunakan [Visual Studio Code](https://code.visualstudio.com/download){:target="_blank"}. Pastikan Anda memiliki Visual Studio Code terpasang sebelum menjalankan proyek.
 
 ## Cara Penggunaan
 
-1. Buka proyek index.html menggunakan browser (saya menggunakan [Vivaldi Browser](https://vivaldi.com/download/)) atau klik [tautan ini](https://kd-fajarnadya.vercel.app).
+1. Buka proyek index.html menggunakan browser (saya menggunakan [Vivaldi Browser](https://vivaldi.com/download/){:target="_blank"}) atau klik [tautan ini](https://kd-fajarnadya.vercel.app){:target="_blank"}.
 2. Masukkan angka dan operasi yang ingin dilakukan dengan cara menekan tombol pada keyboard atau memilih tombol pada website.
