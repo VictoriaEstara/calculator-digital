@@ -3,9 +3,13 @@
 Kode ini berfungsi untuk membuat kalkulator aritmatika
 Fitur-fitur:
 1️⃣ Melakukan Operasi aritmatika (penjumlahan, pengurangan, perkalian, pembagian, dan modulus)
+
 2️⃣ Light mode dan Dark mode
+
 3️⃣ History perhitungan
+
 4️⃣ Clear history perhitungan
+
 5️⃣ Menerapkan paradigma Function Programming
 
 ## Bahasa Pemrograman
