@@ -1,6 +1,6 @@
 ## Gambaran Umum
 
-Kode ini berfungsi untuk membuat kalkulator aritmatika
+Kode ini berfungsi untuk membuat kalkulator aritmatika.
 
 Fitur-fitur:
 
