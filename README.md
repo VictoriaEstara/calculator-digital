@@ -20,8 +20,8 @@ Kode proyek ini ditulis menggunakan bahasa pemrograman HTML, CSS, dan JavaScript
 
 ## Software Pendukung
 
-Proyek ini dikembangkan menggunakan [Visual Studio Code](https://code.visualstudio.com/download){:target="_blank"}. Pastikan Anda memiliki Visual Studio Code terpasang sebelum menjalankan proyek.
-
+Proyek ini dikembangkan menggunakan [Visual Studio Code](https://code.visualstudio.com/download, "_blank"). Pastikan Anda memiliki Visual Studio Code terpasang sebelum menjalankan proyek.
+("https://www.youtube.com/@DedadFajarIndonesia", "_blank")
 ## Cara Penggunaan
 
 1. Buka proyek index.html menggunakan browser (saya menggunakan [Vivaldi Browser](https://vivaldi.com/download/){:target="_blank"}) atau klik [tautan ini](https://kd-fajarnadya.vercel.app){:target="_blank"}.
