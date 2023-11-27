@@ -1,6 +1,3 @@
-Bisakah anda mengedit semua link agar ketika ditekan membuka dengan new tab? 
-
-
 ## Gambaran Umum
 
 Kode ini berfungsi untuk membuat kalkulator aritmatika.
