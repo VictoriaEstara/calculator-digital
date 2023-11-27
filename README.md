@@ -1,28 +1,40 @@
-## Gambaran Umum
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kalkulator Aritmatika</title>
+</head>
+<body>
 
-Kode ini berfungsi untuk membuat kalkulator aritmatika.
+<h2>Gambaran Umum</h2>
 
-Fitur-fitur:
+<p>Kode ini berfungsi untuk membuat kalkulator aritmatika.</p>
 
-1️⃣ Melakukan Operasi aritmatika (penjumlahan, pengurangan, perkalian, pembagian, dan modulus)
+<p>Fitur-fitur:</p>
 
-2️⃣ Light mode dan Dark mode
+<ol>
+  <li>Melakukan Operasi aritmatika (penjumlahan, pengurangan, perkalian, pembagian, dan modulus)</li>
+  <li>Light mode dan Dark mode</li>
+  <li>History perhitungan</li>
+  <li>Clear history perhitungan</li>
+  <li>Menerapkan paradigma Function Programming</li>
+</ol>
 
-3️⃣ History perhitungan
+<h2>Bahasa Pemrograman</h2>
 
-4️⃣ Clear history perhitungan
+<p>Kode proyek ini ditulis menggunakan bahasa pemrograman HTML, CSS, dan JavaScript.</p>
 
-5️⃣ Menerapkan paradigma Function Programming
+<h2>Software Pendukung</h2>
 
-## Bahasa Pemrograman
+<p>Proyek ini dikembangkan menggunakan <a href="https://code.visualstudio.com/download" target="_blank">Visual Studio Code</a>. Pastikan Anda memiliki Visual Studio Code terpasang sebelum menjalankan proyek.</p>
 
-Kode proyek ini ditulis menggunakan bahasa pemrograman HTML, CSS, dan JavaScript.
+<h2>Cara Penggunaan</h2>
 
-## Software Pendukung
+<ol>
+  <li>Buka proyek index.html menggunakan browser (saya menggunakan <a href="https://vivaldi.com/download/" target="_blank">Vivaldi Browser</a>) atau klik <a href="https://kd-fajarnadya.vercel.app" target="_blank">tautan ini</a>.</li>
+  <li>Masukkan angka dan operasi yang ingin dilakukan dengan cara menekan tombol pada keyboard atau memilih tombol pada website.</li>
+</ol>
 
-Proyek ini dikembangkan menggunakan [Visual Studio Code](https://code.visualstudio.com/download) (buka di tab baru). Pastikan Anda memiliki Visual Studio Code terpasang sebelum menjalankan proyek.
-
-## Cara Penggunaan
-
-1. Buka proyek index.html menggunakan browser (saya menggunakan [Vivaldi Browser](https://vivaldi.com/download/)) atau klik [tautan ini](https://kd-fajarnadya.vercel.app) (buka di tab baru).
-2. Masukkan angka dan operasi yang ingin dilakukan dengan cara menekan tombol pada keyboard atau memilih tombol pada website.
+</body>
+</html>
