@@ -24,5 +24,5 @@ Proyek ini dikembangkan menggunakan [Visual Studio Code](https://code.visualstud
 
 ## Cara Penggunaan
 
-1. Buka proyek index.html menggunakan browser (saya menggunakan [Vivaldi Browser](https://vivaldi.com/download/)) atau klik [tautan ini](https://kd-fajarnadya.vercel.app).
+1. Buka proyek index.html menggunakan browser (saya menggunakan [Vivaldi Browser](https://vivaldi.com/download/)) atau melalui website dengan [tautan ini](https://kd-fajarnadya.vercel.app).
 2. Masukkan angka dan operasi yang ingin dilakukan dengan cara menekan tombol pada keyboard atau memilih tombol pada website.
