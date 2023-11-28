@@ -20,7 +20,7 @@ Kode proyek ini ditulis menggunakan bahasa pemrograman HTML, CSS, dan JavaScript
 
 ## Software Pendukung
 
-Proyek ini dikembangkan menggunakan [Visual Studio Code](https://code.visualstudio.com/download). Pastikan Anda memiliki Visual Studio Code terpasang sebelum menjalankan proyek.
+Proyek ini dikembangkan menggunakan [Visual Studio Code](https://code.visualstudio.com/download).
 
 ## Cara Penggunaan
 
